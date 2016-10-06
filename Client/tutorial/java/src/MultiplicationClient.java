@@ -6,7 +6,6 @@ import org.apache.thrift.transport.TTransport;
 
 public class MultiplicationClient {
   public static void main(String [] args) {
-
    
     try {
       TTransport transport;
