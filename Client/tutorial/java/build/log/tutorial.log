@@ -1,0 +1,12 @@
+Starting the simple server...
+Starting the secure server...
+ping()
+add(1,1)
+calculate(1, {DIVIDE,1,0})
+calculate(1, {SUBTRACT,15,10})
+getStruct(1)
+ping()
+add(1,1)
+calculate(1, {DIVIDE,1,0})
+calculate(1, {SUBTRACT,15,10})
+getStruct(1)
