@@ -1,6 +1,6 @@
 #APACHE THRIFT
 
-##Generate Code
+##1. Generate Code
 ###Install
 		According to https://thrift.apache.org/tutorial/
 	
@@ -16,6 +16,6 @@
 			``` java -jar Server.jar
 					java -jar Client.jar
 
-###note
+###2. Note
 ```
 	sudo kill $(sudo lsof -t -i:9090)
